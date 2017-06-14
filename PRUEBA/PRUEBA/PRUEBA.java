@@ -4,7 +4,7 @@ public class PRUEBA {
 	
 	public static void main(String[] args) {
 	
-		int prueba=0;
+		int prueba=1;
 	
 	}
 	
